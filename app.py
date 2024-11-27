@@ -169,7 +169,7 @@ def main():
                 st.write(
                     f"De acordo com a classificação presente no Anexo 1 do Regulamento Delegado (UE) 2022/2104 "
                     f"da Comissão de 29 de julho de 2022, o Azeite referente à amostra {num_amostra}, "
-                    f" segundo os parâmetros físico-químicos, classifica-se como {resultado['classificacao']}"
+                    f" segundo os parâmetros analisados, classifica-se como {resultado['classificacao']}."
                 )
                 
                 st.write(f"Parâmetros analisados: {', '.join(resultado['parametros_analisados'])}")
