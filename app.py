@@ -24,7 +24,7 @@ def definir_categorias():
             "k270": (None, 1.25),
             "delta_k": (None, 0.016)
         },
-        "Azeite Composto": {
+        "Azeite Composto por azeite refinado e azeite virgem": {
             "acidez": (None, 1.00),
             "peroxidos": (None, 15.00),
             "k232": None,
